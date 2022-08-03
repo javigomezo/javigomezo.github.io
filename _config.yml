@@ -21,12 +21,12 @@ timezone: 'Europe/Madrid'
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Javier Gómez                          # the main title
+title: Homeserver documentation                          # the main title
 
 tagline: First static page for testing & fun   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+  A minimal static page for hosting home server documentation powered by jekyll & chirpy.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://javigomezo.github.io'
@@ -44,7 +44,7 @@ social:
   email: github.p4cmn@simplelogin.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
+    # - https://twitter.com/username      # change to your twitter homepage
     - https://github.com/javigomezo       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
